@@ -2,7 +2,7 @@ import Form from "../components/Form"
 
 const Home = () => {
   return (
-    <div>
+    <div className="card">
       <Form />
     </div>
   )

@@ -1,0 +1,11 @@
+.signUpForm {
+  display: flex;
+  flex-direction: column;
+  min-height: 250px;
+  justify-content: center;
+}
+
+.textLabel {
+  padding-right: 10px;
+}
+
